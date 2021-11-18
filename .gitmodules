@@ -1,6 +1,3 @@
-[submodule "gain-plug-in"]
-	path = Plug-ins
-	url = git@github.com:Dowsed/gain-plug-in.git
 
 [submodule "distortion-plug-in"]
 	path = Plug-ins
