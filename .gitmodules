@@ -1,3 +1,7 @@
-[submodule "Plug-ins"]
+[submodule "gain-plug-in"]
 	path = Plug-ins
-	url = /Users/petedowsett/OneDrive - University of West London/Audio Programming 2/Teacher/Plug-ins/gain-plug-in
+	url = git@github.com:Dowsed/gain-plug-in.git
+
+[submodule "distortion-plug-in"]
+	path = Plug-ins
+	url = git@github.com:Dowsed/distortion-plug-in.git
