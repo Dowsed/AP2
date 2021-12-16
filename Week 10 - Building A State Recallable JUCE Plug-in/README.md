@@ -1,5 +1,6 @@
 ## Juce tutorial on value tree states
 https://docs.juce.com/master/classAudioProcessorValueTreeState.html
+https://docs.juce.com/master/tutorial_audio_processor_value_tree_state.html
 
 ## The Audio Programmer videos on value tree states
 https://www.youtube.com/watch?v=NE8d91yYBJ8
