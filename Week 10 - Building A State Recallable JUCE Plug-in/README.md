@@ -22,5 +22,4 @@ https://www.w3schools.com/cpp/cpp_conditions_shorthand.asp
 
 # Exercises
 
-1) Take the gain slider code and implement it with the ValueTree::Listener so that the values for your audio parameters are only changed then the parameters are changed on the UI.
-2) Implement a ValueTreeState and save and recall functionality to your distortion plug-in.
+1) Implement a ValueTreeState and save and recall functionality to your distortion plug-in.
